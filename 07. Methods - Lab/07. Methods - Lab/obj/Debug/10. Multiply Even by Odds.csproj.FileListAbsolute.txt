@@ -1,6 +1,0 @@
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\bin\Debug\_07.Methods___Lab.exe.config
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\bin\Debug\_07.Methods___Lab.exe
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\bin\Debug\_07.Methods___Lab.pdb
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\obj\Debug\10. Multiply Even by Odds.csprojAssemblyReference.cache
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\obj\Debug\_07.Methods___Lab.exe
-D:\Fundamentals Module\07. Methods - Lab\07. Methods - Lab\07. Methods - Lab\obj\Debug\_07.Methods___Lab.pdb
