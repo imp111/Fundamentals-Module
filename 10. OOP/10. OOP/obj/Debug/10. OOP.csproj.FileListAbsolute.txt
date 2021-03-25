@@ -1,0 +1,7 @@
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\bin\Debug\_10.OOP.exe.config
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\bin\Debug\_10.OOP.exe
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\bin\Debug\_10.OOP.pdb
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\obj\Debug\10. OOP.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\obj\Debug\10. OOP.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\obj\Debug\_10.OOP.exe
+D:\SoftUni\Fundamentals Module\10. OOP\10. OOP\obj\Debug\_10.OOP.pdb
