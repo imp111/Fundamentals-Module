@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _01.Randomize_Words
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             string[] array = Console.ReadLine().Split(' ', (char)StringSplitOptions.RemoveEmptyEntries);
 
