@@ -11,7 +11,7 @@ namespace _02.Odd_Occurances
         static void Main(string[] args)
         {
             string[] sentence = Console.ReadLine()
-                .Split(' ');
+               .Split(' ');
 
             Dictionary<string, int> counts = new Dictionary<string, int>();
 

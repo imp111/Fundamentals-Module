@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{691AD9E4-0EE2-47BE-A6D7-6D241545106C}</ProjectGuid>
+    <ProjectGuid>{AFA65D5B-5515-44BD-9336-080F4A8DF05E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_02.Odd_Occurances</RootNamespace>
     <AssemblyName>_02.Odd_Occurances</AssemblyName>

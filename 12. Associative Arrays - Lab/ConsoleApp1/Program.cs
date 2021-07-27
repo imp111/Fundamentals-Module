@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Associative_Arrays___Lab
+namespace ConsoleApp1
 {
     class Program
     {
