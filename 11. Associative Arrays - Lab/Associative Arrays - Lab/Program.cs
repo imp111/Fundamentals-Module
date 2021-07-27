@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Associative_Arrays___Lab
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double[] array = Console.ReadLine()
+                .Split(' ')
+                .Select(double.Parse)
+                .ToArray();
+
+            SortedDictionary<double, int> counts = new SortedDictionary<double, int>();
+
+            foreach (int number in array)
+            {
+                if (counts.ContainsKey(number))
+                {
+                    counts[number]++;
+                }
+                else
+                {
+                    counts.Add(number, 1);
+                }
+            }
+
+            foreach (var number in counts)
+            {
+                Console.WriteLine($"{number.Key} -> {number.Value}");
+            }
+        }
+    }
+}
