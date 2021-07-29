@@ -10,6 +10,26 @@ namespace _04.Largest_3_Numbers
     {
         static void Main(string[] args)
         {
+            int[] numbers = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToArray();
+
+            int[] sorted = numbers.OrderByDescending(n => n)
+                .ToArray();
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(sorted[i]);
+
+                if (sorted.Length < 3)
+                {
+                    if (i == 1)
+                    {
+                        break;
+                    }
+                }
+            }
         }
     }
 }

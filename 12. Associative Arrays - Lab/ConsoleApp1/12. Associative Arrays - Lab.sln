@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Occurances", "..\02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms", "..\03. Word Synonyms\03. Word Synonyms.csproj", "{C85FDD44-8956-4C62-ABDC-9B57C7CF813B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Largest 3 Numbers", "..\04. Largest 3 Numbers\04. Largest 3 Numbers.csproj", "{60582368-60DA-42AC-B09C-18E61E75F723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word Filter", "..\05. Word Filter\05. Word Filter.csproj", "{5BD20CE0-ED6F-4F6A-B66A-46D9DEFBB06F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C85FDD44-8956-4C62-ABDC-9B57C7CF813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85FDD44-8956-4C62-ABDC-9B57C7CF813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85FDD44-8956-4C62-ABDC-9B57C7CF813B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60582368-60DA-42AC-B09C-18E61E75F723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60582368-60DA-42AC-B09C-18E61E75F723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60582368-60DA-42AC-B09C-18E61E75F723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60582368-60DA-42AC-B09C-18E61E75F723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD20CE0-ED6F-4F6A-B66A-46D9DEFBB06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD20CE0-ED6F-4F6A-B66A-46D9DEFBB06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD20CE0-ED6F-4F6A-B66A-46D9DEFBB06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD20CE0-ED6F-4F6A-B66A-46D9DEFBB06F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
